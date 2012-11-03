@@ -171,11 +171,11 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath=".\GSC.cpp"
+				RelativePath=".\gsc.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\GSC_main.cpp"
+				RelativePath=".\gsc_main.cpp"
 				>
 			</File>
 			<File
@@ -189,7 +189,7 @@
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
 			<File
-				RelativePath=".\GSC.h"
+				RelativePath=".\gsc.h"
 				>
 			</File>
 			<File
