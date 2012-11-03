@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual C++ Express 2008
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GSC", "GSC\GSC.vcproj", "{48B20096-62AF-43FC-9F35-2AABFE86CE22}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pump", "..\Pump\Pump.vcproj", "{12450C78-5759-410A-B916-822895338EB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{48B20096-62AF-43FC-9F35-2AABFE86CE22}.Debug|Win32.Build.0 = Debug|Win32
 		{48B20096-62AF-43FC-9F35-2AABFE86CE22}.Release|Win32.ActiveCfg = Release|Win32
 		{48B20096-62AF-43FC-9F35-2AABFE86CE22}.Release|Win32.Build.0 = Release|Win32
+		{12450C78-5759-410A-B916-822895338EB0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12450C78-5759-410A-B916-822895338EB0}.Debug|Win32.Build.0 = Debug|Win32
+		{12450C78-5759-410A-B916-822895338EB0}.Release|Win32.ActiveCfg = Release|Win32
+		{12450C78-5759-410A-B916-822895338EB0}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
